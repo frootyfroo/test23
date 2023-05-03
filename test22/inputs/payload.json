@@ -1,0 +1,17 @@
+{
+  "class": "GIS466",
+  "details": [
+    {
+      "key": "age",
+      "value": "18"
+    },
+    {
+      "key": "name",
+      "value": "frooty"
+    },
+    {
+      "key": "lastname",
+      "value": "froo"
+    }
+  ]
+}
